@@ -3,7 +3,7 @@ variable "aws_region" {
 }
 
 variable "key_name" {
-  default     = "ming-test"
+  default     = "ming.ho"
 }
 
 variable "instance_type" {
@@ -11,5 +11,5 @@ variable "instance_type" {
 }
 
 variable "ami_id" {
-  default     = "ami-069d73f3235b535bd"
+  default     = "ami-06ca3ca175f37dd66"
 }
